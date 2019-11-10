@@ -6,6 +6,7 @@ Plug 'tpope/vim-fugitive' " Git integration with vim
 Plug 'tpope/vim-surround' " Helps with surrounding text
 Plug 'tpope/vim-repeat' " Enable Repeating of plugin maps
 Plug 'Thornycrackers-Forks/nord-vim' " Pretty colorscheme
+Plug 'itchyny/lightline.vim'
 Plug 'francoiscabrol/ranger.vim'  " Ranger integration
 Plug 'ledger/vim-ledger' " Ledger plugin
 Plug 'python-mode/python-mode' " Python awesomeness in vim
